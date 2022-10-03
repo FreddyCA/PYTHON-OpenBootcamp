@@ -1,4 +1,4 @@
-# Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
+# Programa capaz de mostrar los números del 1 al 100 en orden inverso.
 
 print('Numeros del 100 al 1')
 numero = 100
